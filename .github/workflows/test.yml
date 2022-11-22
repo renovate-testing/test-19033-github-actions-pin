@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: github/codeql-action/upload-sarif@678fc3afe258fb2e0cdc165ccf77b85719de7b3c # v2.1.33
+      - uses: github/codeql-action/upload-sarif@8d0f2452ee95e5895e161ce0a54928661e986c3c # v2.1.32
