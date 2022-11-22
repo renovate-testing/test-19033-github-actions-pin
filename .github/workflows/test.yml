@@ -6,3 +6,4 @@ jobs:
     steps:
       - name: Blabla
         uses: github/codeql-action/upload-sarif@678fc3afe258fb2e0cdc165ccf77b85719de7b3c # v2.1.33
+        
